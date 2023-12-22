@@ -1,0 +1,242 @@
+[
+  {
+    "Option 1": "Identify performance issues",
+    "Option 2": "Automate all test cases",
+    "Answer Key": "3",
+    "Question": "What is the primary goal of manual testing?",
+    "Option 3": "Find defects in the software",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Faster execution",
+    "Option 2": "Better test coverage",
+    "Answer Key": "2",
+    "Question": "What is the main advantage of manual testing over automated testing?",
+    "Option 3": "Repeatable tests",
+    "Option 4": "Less human intervention"
+  },
+  {
+    "Option 1": "A defect in the software",
+    "Option 2": "A set of instructions to test a specific functionality",
+    "Answer Key": "2",
+    "Question": "What is a test case in manual testing?",
+    "Option 3": "A summary report after testing",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Requirements",
+    "Option 2": "Design",
+    "Answer Key": "4",
+    "Question": "Which phase of the software development life cycle (SDLC) does manual testing typically begin?",
+    "Option 3": "Implementation",
+    "Option 4": "Testing"
+  },
+  {
+    "Option 1": "Testing the entire system after each change",
+    "Option 2": "Testing only the new features",
+    "Answer Key": "1",
+    "Question": "What is regression testing in manual testing?",
+    "Option 3": "Testing for security vulnerabilities",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "To identify defects",
+    "Option 2": "To guide the testing process",
+    "Answer Key": "2",
+    "Question": "What is the purpose of a test plan in manual testing?",
+    "Option 3": "To design test cases",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Black-box testing",
+    "Option 2": "White-box testing",
+    "Answer Key": "1",
+    "Question": "Which testing technique involves testing with predefined inputs to verify the correctness of the software?",
+    "Option 3": "Grey-box testing",
+    "Option 4": "Alpha testing"
+  },
+  {
+    "Option 1": "Execute test cases",
+    "Option 2": "Generate test data",
+    "Answer Key": "3",
+    "Question": "What is the role of a test environment in manual testing?",
+    "Option 3": "Provide a platform for testing",
+    "Option 4": "All of the above"
+  },
+  {
+    "Option 1": "To trace defects",
+    "Option 2": "To map requirements to test cases",
+    "Answer Key": "2",
+    "Question": "What is the purpose of the Traceability Matrix in manual testing?",
+    "Option 3": "To track test execution progress",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Ad-hoc testing without predefined test cases",
+    "Option 2": "Testing conducted by end-users",
+    "Answer Key": "1",
+    "Question": "What is exploratory testing in manual testing?",
+    "Option 3": "Testing based on a script",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Inspections",
+    "Option 2": "Reviews",
+    "Answer Key": "4",
+    "Question": "Which of the following is a validation activity in manual testing?",
+    "Option 3": "Unit testing",
+    "Option 4": "System testing"
+  },
+  {
+    "Option 1": "To summarize test execution results",
+    "Option 2": "To create test cases",
+    "Answer Key": "1",
+    "Question": "What is the purpose of a test summary report in manual testing?",
+    "Option 3": "To analyze requirements",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Test planning",
+    "Option 2": "Test execution",
+    "Answer Key": "2",
+    "Question": "In which phase of testing is a defect life cycle initiated?",
+    "Option 3": "Defect reporting",
+    "Option 4": "Test closure"
+  },
+  {
+    "Option 1": "Boundary value analysis",
+    "Option 2": "Walkthrough",
+    "Answer Key": "2",
+    "Question": "Which of the following is a static testing technique in manual testing?",
+    "Option 3": "Equivalence partitioning",
+    "Option 4": "Stress testing"
+  },
+  {
+    "Option 1": "To verify the major functionalities of the application",
+    "Option 2": "To identify defects",
+    "Answer Key": "1",
+    "Question": "What is the purpose of the sanity test in manual testing?",
+    "Option 3": "To test the system under heavy load",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Find defects",
+    "Option 2": "Verify system functionality",
+    "Answer Key": "3",
+    "Question": "What is the primary goal of acceptance testing in manual testing?",
+    "Option 3": "Ensure compliance with business requirements",
+    "Option 4": "All of the above"
+  },
+  {
+    "Option 1": "To test the system exhaustively",
+    "Option 2": "To verify the critical functionalities",
+    "Answer Key": "2",
+    "Question": "What is the purpose of the smoke test in manual testing?",
+    "Option 3": "To test for security vulnerabilities",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Verification ensures the product is built right; validation ensures the right product is built.",
+    "Option 2": "Verification is conducted by developers; validation is conducted by testers.",
+    "Answer Key": "1",
+    "Question": "What is the difference between verification and validation in manual testing?",
+    "Option 3": "There is no difference; the terms are interchangeable.",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "To execute test cases",
+    "Option 2": "To find defects in the source code",
+    "Answer Key": "2",
+    "Question": "What is the purpose of the Code Review process in manual testing?",
+    "Option 3": "To create test plans",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "To test values at the boundary of input domains",
+    "Option 2": "To test performance issues",
+    "Answer Key": "1",
+    "Question": "What is the significance of boundary value analysis in manual testing?",
+    "Option 3": "To validate system requirements",
+    "Option 4": "All of the above"
+  },
+  {
+    "Option 1": "System testing",
+    "Option 2": "Acceptance testing",
+    "Answer Key": "3",
+    "Question": "Which testing phase focuses on finding defects that were not identified in previous phases?",
+    "Option 3": "Regression testing",
+    "Option 4": "Integration testing"
+  },
+  {
+    "Option 1": "To define when to start testing",
+    "Option 2": "To specify the criteria for completing testing",
+    "Answer Key": "2",
+    "Question": "What is the purpose of the Exit Criteria in manual testing?",
+    "Option 3": "To identify defects",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Execute test cases",
+    "Option 2": "Write test cases",
+    "Answer Key": "3",
+    "Question": "What is the primary role of a test lead in manual testing?",
+    "Option 3": "Manage the testing team and process",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Load testing",
+    "Option 2": "Stress testing",
+    "Answer Key": "1",
+    "Question": "Which type of testing is performed to simulate real-world user scenarios?",
+    "Option 3": "User acceptance testing",
+    "Option 4": "Exploratory testing"
+  },
+  {
+    "Option 1": "To identify defects",
+    "Option 2": "To divide input values into classes for testing",
+    "Answer Key": "2",
+    "Question": "What is the purpose of the equivalence partitioning technique in manual testing?",
+    "Option 3": "To analyze requirements",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "To execute predefined test cases",
+    "Option 2": "To find defects without a script",
+    "Answer Key": "2",
+    "Question": "What is the main objective of ad-hoc testing in manual testing?",
+    "Option 3": "To validate system requirements",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "To create test cases",
+    "Option 2": "To track the status of reported defects",
+    "Answer Key": "2",
+    "Question": "What is the purpose of a defect life cycle in manual testing?",
+    "Option 3": "To execute test cases",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "To prioritize testing efforts based on the most critical functionalities",
+    "Option 2": "To create test cases",
+    "Answer Key": "1",
+    "Question": "What is the significance of the Pareto principle in manual testing?",
+    "Option 3": "To find defects in the source code",
+    "Option 4": "None of the above"
+  },
+  {
+    "Option 1": "Unit testing",
+    "Option 2": "Integration testing",
+    "Answer Key": "3",
+    "Question": "In which testing phase are test cases derived from the detailed design and system requirements?",
+    "Option 3": "System testing",
+    "Option 4": "Acceptance testing"
+  },
+  {
+    "Option 1": "To create test cases",
+    "Option 2": "To find defects in the source code",
+    "Answer Key": "3",
+    "Question": "What is the purpose of the root cause analysis in manual testing?",
+    "Option 3": "To identify the underlying cause of a defect",
+    "Option 4": "None of the above"
+  }
+]
