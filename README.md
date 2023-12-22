@@ -32,7 +32,7 @@ These points cover the essential prerequisites to run and manage the Quiz System
 https://www.loom.com/share/75d9f38911174c36b6877936e0efce1b?sid=52996e8d-a715-4240-862e-a90528cc2845
 
 
-here is a video sample how to use it
+here is a video sample how to use it, clcick on the play button to play the video.
 
 ## File Structure
 
